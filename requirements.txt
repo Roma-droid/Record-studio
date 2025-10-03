@@ -1,0 +1,12 @@
+numpy
+opencv-python
+Pillow
+sounddevice
+scipy
+pyautogui
+mss
+psutil
+keyboard
+pycaw
+comtypes
+pywin32
