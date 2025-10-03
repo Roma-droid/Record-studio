@@ -1,7 +1,9 @@
 # Record-studio
 Record-studio - it is OBS
 
-**How to install**
+**How to install:**
+  ---
+  
   **1.Download code**
   ---
   
